@@ -1,0 +1,7 @@
+Actors:
+1-Customer: Human actor,can register on the website and order a meat from the meat shop online, and will recieve a message and message after buying the order with the order details, also will reacieve a message when the order is ready.
+2-Employee: Human actor, have a co-admin user on the website, can add and edit items to the shop, recieve mail and message about order-details then he choose weither to accept order or not.
+3-Manager: Human actor, have an admin user on the website, can create co-admin accounts, can also add or edit items on the shop, he manages the employee's salary, and financial report will be desplaied for him.
+3-E-Mail:non-human actor,a mail Will be sent for the employee when a customer confirm an order, and a mail will be sent to the customer when the order is ready.
+4-Text message:non-human actor,a message Will be sent for the employee when a customer confirm an order, and a message will be sent to the customer when the order is ready.
+
